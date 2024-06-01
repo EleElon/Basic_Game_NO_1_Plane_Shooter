@@ -1,4 +1,4 @@
-## Basic_Game_NO_1_Plane_Shooter
+# Basic_Game_NO_1_Plane_Shooter
 
 một tựa game máy bay bắn kẻ thủ 2D đơn giản được phát triển với Unity Engine.
 
